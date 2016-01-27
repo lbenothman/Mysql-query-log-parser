@@ -1,0 +1,14 @@
+{
+  "author": "Lotfi Ben Othman",
+  "name": "Mysql query log parser",
+  "description": "Real time parser for mysql query log",
+  "version": "0.1.0",
+  "main": "index.html",
+  "dependencies": {
+    "tail":"0.4.0"
+  },
+  "window": {
+    "toolbar": false,
+    "show": false
+  }
+}
